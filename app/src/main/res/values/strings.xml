@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvpWeatherDemo</string>
+    <string name="load_weather">加载天气中...</string>
+    <string name="error">error...</string>
+</resources>
